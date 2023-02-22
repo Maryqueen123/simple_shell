@@ -37,6 +37,32 @@ The purpose of the simple shell project is to understand:
 
 ```gcc -Wall -Wextra -Werror -pedantic *.c -o hsh```
 
+## Compilation
+
+```gcc -Wall -Wextra -Werror -pedantic *.c -o hsh```
+
+*GCC 4.8.4 or later only*
+
+## Usage Examples
+
+### Interactive Mode
+
+```c
+~/me$ ./hsh
+($) pwd
+/
+($) exit
+~/me$
+```
+
+### Non-Interactive Mode
+
+```c
+~/me$ cat shell.txt
+got me feelin' my newly created shell so let's just keep on coding'
+~/me$
+```
+
 ## Authors
 
 Emmanuel Adetoro | [GitHub](https://github.com/adegboyega96) | [Twitter](https://twitter.com/adegboyega95)
