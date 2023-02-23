@@ -37,7 +37,7 @@ The purpose of the simple shell project is to understand:
 
 ```gcc -Wall -Wextra -Werror -pedantic *.c -o hsh```
 
-## Authors
+## Authorss
 
 Emmanuel Adetoro | [GitHub](https://github.com/adegboyega96) | [Twitter](https://twitter.com/adegboyega95)\n
 Mary Okonkwo | [GitHub](https://github.com/) | [Twitter](https://twitter.com/)
